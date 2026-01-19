@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://schornb.github.io/al-folio/sitemap.xml
+Sitemap: https://schornb.github.io/sitemap.xml
